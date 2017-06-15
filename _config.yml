@@ -1,8 +1,8 @@
 # Basic
 title: Zecheng Zhuo
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+subtitle: IT、投资、学习
+welcome_message: <a href="https://zechengzhuo.org" target="_blank">主页</a>
+description: 学习学习再学习.
 creator: <a href="http://zechengzhuo.org">@zecheng</a>
 
 url: "http://zechengzhuo.org"
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: blue
 
 # The blog button should not be removed.
 blog_button:
